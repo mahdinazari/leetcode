@@ -27,6 +27,11 @@ Write a function to find the longest common prefix string amongst an array of st
 
 Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
+### 58_length_of_last_word
+[58_length_of_last_word](https://github.com/mahdinazari/leetcode/blob/main/python/58_length_of_last_word)
+
+Given a string s consisting of words and spaces, return the length of the last word in the string.
+A word is a maximal substring consisting of non-space characters only.
 
 ### 70_climbing_stairs
 [70_climbing_stairs](https://github.com/mahdinazari/leetcode/blob/main/python/)
