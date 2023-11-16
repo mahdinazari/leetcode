@@ -1,28 +1,24 @@
+from audioop import reverse
+
+
 class Solution:
     def isPalindrome(self, x: int) -> bool:
         """
             Given an integer x, return true if x is a palindrome, and false otherwise.
         """
-        y = x
-        mod = 0
-        length = 0
-        result = 0
-        while x > 0:
-            mod = x % 10
-            length = len(str(x))
-            if x >= 10:
-                result += mod * (10 ** (length - 1))
-            else:
-                result += mod * length 
-            
-            x = x // 10
+        n = x
+        reverse = 0
+        while n > 0:
+            mod = n % 10 
+            n = n // 10 
+            reverse = reverse * 10 + mod 
         
-        return result == y
-    
+        return x == reverse
+        
 
 if __name__ == '__main__':
     solution = Solution()
     
-    x = 123
+    x = 121
     print(solution.isPalindrome(x))
     
