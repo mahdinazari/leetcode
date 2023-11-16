@@ -26,3 +26,10 @@ Write a function to find the longest common prefix string amongst an array of st
 [20_validate_parenthese](https://github.com/mahdinazari/leetcode/blob/main/python/20_validate_parenthese)
 
 Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+
+
+### 70_climbing_stairs
+[70_climbing_stairs](https://github.com/mahdinazari/leetcode/blob/main/python/)
+
+You are climbing a staircase. It takes n steps to reach the top.
+Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
