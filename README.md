@@ -33,6 +33,15 @@ Given a string s containing just the characters '(', ')', '{', '}', '[' and ']',
 Given a string s consisting of words and spaces, return the length of the last word in the string.
 A word is a maximal substring consisting of non-space characters only.
 
+
+### 70_climbing_stairs
+[70_climbing_stairs](https://github.com/mahdinazari/leetcode/blob/main/python/70_climbing_stairs)
+
+You are given a large integer represented as an integer array digits, where each digits[i] is the
+ith digit of the integer. The digits are ordered from most significant to least significant in left-to-right order.
+The large integer does not contain any leading 0's.
+
+
 ### 70_climbing_stairs
 [70_climbing_stairs](https://github.com/mahdinazari/leetcode/blob/main/python/)
 
