@@ -11,7 +11,6 @@ Given an array of integers nums and an integer target, return indices of the two
 
 Given an integer x, return true if x is a palindrome, and false otherwise.
 
-
 ### 13_roman_to_int.py
 [13_roman_to_int](https://github.com/mahdinazari/leetcode/blob/main/python/13_roman_to_int.py)
 
@@ -26,6 +25,12 @@ Write a function to find the longest common prefix string amongst an array of st
 [20_validate_parenthese](https://github.com/mahdinazari/leetcode/blob/main/python/20_validate_parenthese)
 
 Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+
+
+### 28_find_Index_of_the_first_occurrence_in_string
+[28_find_Index_of_the_first_occurrence_in_string](https://github.com/mahdinazari/leetcode/blob/main/python/28_find_Index_of_the_first_occurrence_in_string)
+
+Given two strings needle and haystack, return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
 
 ### 58_length_of_last_word
 [58_length_of_last_word](https://github.com/mahdinazari/leetcode/blob/main/python/58_length_of_last_word)
