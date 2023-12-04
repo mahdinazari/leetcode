@@ -43,7 +43,6 @@ Given a sorted array of distinct integers and a target value, return the index i
 Given a string s consisting of words and spaces, return the length of the last word in the string.
 A word is a maximal substring consisting of non-space characters only.
 
-
 ### 66_plus_one
 [66_plus_one](https://github.com/mahdinazari/leetcode/blob/main/python/70_climbing_stairs)
 
@@ -57,7 +56,12 @@ The large integer does not contain any leading 0's.
 Given two binary strings a and b, return their sum as a binary string.
 
 ### 70_climbing_stairs
-[70_climbing_stairs](https://github.com/mahdinazari/leetcode/blob/main/python/)
+[70_climbing_stairs](https://github.com/mahdinazari/leetcode/blob/main/python/70_climbing_stairs)
 
 You are climbing a staircase. It takes n steps to reach the top.
 Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
+
+### 88_merge_sorted_array
+[88_merge_sorted_array](https://github.com/mahdinazari/leetcode/blob/main/python/88_merge_sorted_array)
+
+You are given two integer arrays nums1 and nums2, sorted in non-decreasing order, and two integers m and n, representing the number of elements in nums1 and nums2 respectively.
