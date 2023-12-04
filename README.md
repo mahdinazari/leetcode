@@ -32,6 +32,11 @@ Given a string s containing just the characters '(', ')', '{', '}', '[' and ']',
 
 Given two strings needle and haystack, return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
 
+### 35_search_insert_position
+[35_search_insert_position](https://github.com/mahdinazari/leetcode/blob/main/python/35_search_insert_position)
+
+Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
+
 ### 58_length_of_last_word
 [58_length_of_last_word](https://github.com/mahdinazari/leetcode/blob/main/python/58_length_of_last_word)
 

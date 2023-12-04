@@ -21,12 +21,12 @@ if __name__ == '__main__':
     digits = [1, 2, 3]
     print(solution.plusOne(digits))
     
-    digits = [4,3,2,1]
+    digits = [4, 3, 2, 1]
     print(solution.plusOne(digits))
     
     digits = [9]
     print(solution.plusOne(digits))
     
-    digits = [9,9]
+    digits = [9, 9]
     print(solution.plusOne(digits))
     

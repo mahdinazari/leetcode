@@ -10,7 +10,7 @@ class Solution:
         
 if __name__ == '__main__':
     solution = Solution()
-    haystack ='sadbutsad' 
+    haystack = 'sadbutsad' 
     needle = 'sad'
     print(solution.strStr(haystack=haystack, needle=needle))
     
@@ -21,3 +21,4 @@ if __name__ == '__main__':
     haystack = 'mississippi'
     needle = 'issip'  
     print(solution.strStr(haystack=haystack, needle=needle))
+    
