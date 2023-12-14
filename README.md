@@ -65,3 +65,8 @@ Each time you can either climb 1 or 2 steps. In how many distinct ways can you c
 [88_merge_sorted_array](https://github.com/mahdinazari/leetcode/blob/main/python/88_merge_sorted_array)
 
 You are given two integer arrays nums1 and nums2, sorted in non-decreasing order, and two integers m and n, representing the number of elements in nums1 and nums2 respectively.
+
+### 225_implement_stack_using_queues
+[225_implement_stack_using_queues](https://github.com/mahdinazari/leetcode/blob/main/python/225_implement_stack_using_queues)
+
+Implement a last-in-first-out (LIFO) stack using only two queues. The implemented stack should support all the functions of a normal stack (push, top, pop, and empty).
