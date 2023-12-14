@@ -17,28 +17,28 @@ Given an integer x, return true if x is a palindrome, and false otherwise.
 Converrt roman to integer. Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
 
 ### 14_longest_common_prefix
-[14_longest_common_prefix](https://github.com/mahdinazari/leetcode/blob/main/python/14_longest_common_prefix)
+[14_longest_common_prefix](https://github.com/mahdinazari/leetcode/blob/main/python/14_longest_common_prefix.py)
 
 Write a function to find the longest common prefix string amongst an array of strings.
 
 ### 20_validate_parenthese
-[20_validate_parenthese](https://github.com/mahdinazari/leetcode/blob/main/python/20_validate_parenthese)
+[20_validate_parenthese](https://github.com/mahdinazari/leetcode/blob/main/python/20_validate_parenthese.py)
 
 Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
 
 ### 28_find_Index_of_the_first_occurrence_in_string
-[28_find_Index_of_the_first_occurrence_in_string](https://github.com/mahdinazari/leetcode/blob/main/python/28_find_Index_of_the_first_occurrence_in_string)
+[28_find_Index_of_the_first_occurrence_in_string](https://github.com/mahdinazari/leetcode/blob/main/python/28_find_Index_of_the_first_occurrence_in_string.py)
 
 Given two strings needle and haystack, return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
 
 ### 35_search_insert_position
-[35_search_insert_position](https://github.com/mahdinazari/leetcode/blob/main/python/35_search_insert_position)
+[35_search_insert_position](https://github.com/mahdinazari/leetcode/blob/main/python/35_search_insert_position.py)
 
 Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
 
 ### 58_length_of_last_word
-[58_length_of_last_word](https://github.com/mahdinazari/leetcode/blob/main/python/58_length_of_last_word)
+[58_length_of_last_word](https://github.com/mahdinazari/leetcode/blob/main/python/58_length_of_last_word.py)
 
 Given a string s consisting of words and spaces, return the length of the last word in the string.
 A word is a maximal substring consisting of non-space characters only.
@@ -51,7 +51,7 @@ ith digit of the integer. The digits are ordered from most significant to least 
 The large integer does not contain any leading 0's.
 
 ### 67_add_binary
-[67_add_binary]](https://github.com/mahdinazari/leetcode/blob/main/python/67_add_binary)
+[67_add_binary]](https://github.com/mahdinazari/leetcode/blob/main/python/67_add_binary.py)
 
 Given two binary strings a and b, return their sum as a binary string.
 
@@ -62,18 +62,22 @@ You are climbing a staircase. It takes n steps to reach the top.
 Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
 
 ### 88_merge_sorted_array
-[88_merge_sorted_array](https://github.com/mahdinazari/leetcode/blob/main/python/88_merge_sorted_array)
+[88_merge_sorted_array](https://github.com/mahdinazari/leetcode/blob/main/python/88_merge_sorted_array.py)
 
 You are given two integer arrays nums1 and nums2, sorted in non-decreasing order, and two integers m and n, representing the number of elements in nums1 and nums2 respectively.
 
 ### 225_implement_stack_using_queues
-[225_implement_stack_using_queues](https://github.com/mahdinazari/leetcode/blob/main/python/225_implement_stack_using_queues)
+[225_implement_stack_using_queues](https://github.com/mahdinazari/leetcode/blob/main/python/225_implement_stack_using_queues.py)
 
 Implement a last-in-first-out (LIFO) stack using only two queues. The implemented stack should support all the functions of a normal stack (push, top, pop, and empty).
 
-
-### 219_contains_duplicate_II
-[219_contains_duplicate_II](https://github.com/mahdinazari/leetcode/blob/main/python/219_contains_duplicate_II)
+### 217_contains_duplicate
+[217_contains_duplicate](https://github.com/mahdinazari/leetcode/blob/main/python/217_contains_duplicate.py)
 
 Given an integer array nums, return true if any value appears at least twice in the array,
 and return false if every element is distinct.
+
+### 219_contains_duplicate_II
+[219_contains_duplicate_II](https://github.com/mahdinazari/leetcode/blob/main/python/219_contains_duplicate_II.py)
+
+Given an integer array nums and an integer k, return true if there are two distinct indices i and j in the array such that nums[i] == nums[j] and abs(i - j) <= k.
