@@ -70,3 +70,10 @@ You are given two integer arrays nums1 and nums2, sorted in non-decreasing order
 [225_implement_stack_using_queues](https://github.com/mahdinazari/leetcode/blob/main/python/225_implement_stack_using_queues)
 
 Implement a last-in-first-out (LIFO) stack using only two queues. The implemented stack should support all the functions of a normal stack (push, top, pop, and empty).
+
+
+### 219_contains_duplicate_II
+[219_contains_duplicate_II](https://github.com/mahdinazari/leetcode/blob/main/python/219_contains_duplicate_II)
+
+Given an integer array nums, return true if any value appears at least twice in the array,
+and return false if every element is distinct.
