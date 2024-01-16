@@ -83,6 +83,11 @@ and return false if every element is distinct.
 Given an integer array nums and an integer k, return true if there are two distinct indices i and j in the array such that nums[i] == nums[j] and abs(i - j) <= k.
 
 
+### 231_power_of_two
+[231_power_of_two](https://github.com/mahdinazari/leetcode/blob/main/python/231_power_of_two.py)
+
+An integer n is a power of two, if there exists an integer x such that n == 2x.
+
 ### 232_Implement_queue_using_stacks
 [232_Implement_queue_using_stacks](https://github.com/mahdinazari/leetcode/blob/main/python/232_Implement_queue_using_stacks.py)
 
