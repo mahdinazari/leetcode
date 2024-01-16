@@ -81,3 +81,16 @@ and return false if every element is distinct.
 [219_contains_duplicate_II](https://github.com/mahdinazari/leetcode/blob/main/python/219_contains_duplicate_II.py)
 
 Given an integer array nums and an integer k, return true if there are two distinct indices i and j in the array such that nums[i] == nums[j] and abs(i - j) <= k.
+
+
+### 232_Implement_queue_using_stacks
+[232_Implement_queue_using_stacks](https://github.com/mahdinazari/leetcode/blob/main/python/232_Implement_queue_using_stacks.py)
+
+
+Implement a first in first out (FIFO) queue using only two stacks. The implemented queue should support all the functions of a normal queue (push, peek, pop, and empty).
+
+
+- void push(int x) Pushes element x to the back of the queue.
+- int pop() Removes the element from the front of the queue and returns it.
+- int peek() Returns the element at the front of the queue.
+- boolean empty() Returns true if the queue is empty, false otherwise.
