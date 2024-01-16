@@ -101,3 +101,9 @@ Implement a first in first out (FIFO) queue using only two stacks. The implement
 
 
 An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
+
+
+### 258_add_digits
+[258_add_digits](https://github.com/mahdinazari/leetcode/blob/main/python/258_add_digits.py)
+
+Given an integer num, repeatedly add all its digits until the result has only one digit, and return it.
