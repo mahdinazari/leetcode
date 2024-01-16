@@ -94,3 +94,10 @@ Implement a first in first out (FIFO) queue using only two stacks. The implement
 - int pop() Removes the element from the front of the queue and returns it.
 - int peek() Returns the element at the front of the queue.
 - boolean empty() Returns true if the queue is empty, false otherwise.
+
+
+### 242_valid_anagram
+[232_Implement_queue_using_stacks](https://github.com/mahdinazari/leetcode/blob/main/python/242_valid_anagram.py)
+
+
+An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
