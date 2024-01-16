@@ -112,3 +112,9 @@ An Anagram is a word or phrase formed by rearranging the letters of a different 
 [258_add_digits](https://github.com/mahdinazari/leetcode/blob/main/python/258_add_digits.py)
 
 Given an integer num, repeatedly add all its digits until the result has only one digit, and return it.
+
+
+### 263_ugly_number
+[263_ugly_number](https://github.com/mahdinazari/leetcode/blob/main/python/263_ugly_number.py)
+
+An ugly number is a positive integer whose prime factors are limited to 2, 3, and 5.
