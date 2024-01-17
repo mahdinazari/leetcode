@@ -83,6 +83,11 @@ and return false if every element is distinct.
 Given an integer array nums and an integer k, return true if there are two distinct indices i and j in the array such that nums[i] == nums[j] and abs(i - j) <= k.
 
 
+### 228_summary_ranges
+[228_summary_ranges(https://github.com/mahdinazari/leetcode/blob/main/python/228_summary_ranges.py)
+
+Return the smallest sorted list of ranges that cover all the numbers in the array exactly. That is, each element of nums is covered by exactly one of the ranges, and there is no integer x such that x is in one of the ranges but not in nums.
+
 ### 231_power_of_two
 [231_power_of_two](https://github.com/mahdinazari/leetcode/blob/main/python/231_power_of_two.py)
 
