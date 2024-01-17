@@ -123,3 +123,10 @@ Given an integer num, repeatedly add all its digits until the result has only on
 [263_ugly_number](https://github.com/mahdinazari/leetcode/blob/main/python/263_ugly_number.py)
 
 An ugly number is a positive integer whose prime factors are limited to 2, 3, and 5.
+
+### 283_move_zeroes
+[283_move_zeroes](https://github.com/mahdinazari/leetcode/blob/main/python/283_move_zeroes.py)
+
+Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements.
+
+Note that you must do this in-place without making a copy of the array.
